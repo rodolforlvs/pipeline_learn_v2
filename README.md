@@ -62,6 +62,6 @@ https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index
 ![image](https://user-images.githubusercontent.com/108907292/201010011-973b63b8-d5f4-4070-accd-13f02b4a11d3.png)
 
 ## DAG no Airflow
-![imagem_airflow](/home/rodolfo/Imagens/Capturas de tela)
+
 
 
